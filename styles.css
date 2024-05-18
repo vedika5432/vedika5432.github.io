@@ -1,0 +1,12 @@
+body{
+background-color: yellow;
+}
+div{
+background-color: pink;
+}
+img{
+border-radius: 500px;
+border-style: dashed;
+border-width: 10px;
+border-color: purple;
+}
